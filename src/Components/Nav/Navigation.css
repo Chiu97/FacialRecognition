@@ -1,0 +1,40 @@
+.home-title{
+    font-family:'Comic Sans MS';
+}
+
+.home-title:hover{
+    animation-name: colorful;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+.nav{
+    display: flex;
+}
+
+.sign{
+    justify-content: right;
+    cursor: pointer;
+    font-family: Impact;
+    top: 50%;
+    transform: translateY(25%);
+}
+
+.sign:hover{
+    color: azure;
+}
+
+@keyframes colorful {
+    0% {
+        color: aliceblue;
+    }
+
+    50%{
+        color: aquamarine;
+    }
+
+    100%{
+        color: rgb(204,0,204);
+    }
+}
+
