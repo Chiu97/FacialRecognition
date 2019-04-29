@@ -1,0 +1,23 @@
+.img-url{
+    position: relative;
+    width: 300px;
+    height: 25px;
+    margin-right: 5px;
+    top: 2px;
+}
+
+/* .uploadIcon{
+    marginLeft: theme.spacing.unit;
+} */
+
+.cus-h{
+    position: relative;
+    top: 40px;
+    height: 10vh;
+    margin-bottom:10px;
+}
+
+.inputLine{
+    height: 25px;
+    width: 200px;
+}

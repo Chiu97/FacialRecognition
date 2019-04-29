@@ -1,0 +1,24 @@
+.facePic{
+    height: auto;
+    width: 500px;
+    margin-top: 10px;
+}
+
+.bounding-box{
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.outer{
+    position: absolute;
+}
+
+.makeCenter{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 300px;
+}

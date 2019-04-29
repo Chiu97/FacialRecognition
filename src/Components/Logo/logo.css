@@ -1,0 +1,14 @@
+.icon{
+    width:130px;
+    position: relative;
+    top:40px;
+}
+
+.logoPic{
+    top:50px;
+    /* bottom: 0%;
+    position: fixed;
+    width:100%;
+    left:50%;
+    transform: translateX(-50%); */
+}
